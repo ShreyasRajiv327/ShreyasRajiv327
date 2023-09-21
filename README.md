@@ -5,11 +5,11 @@
  
 
 <h4 align="center" color="F85D7F">Stats of my public repositories</h4>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasrajiv&show_icons=true&count_private=true&bg_color=1F222E&title_color=B37FFF&text_color=FFFFFF&icon_color=F85D7F" alt="shreyasrajiv" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shreyasrajiv&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&currStreakNum=B37FFF&sideNums=B37FFF&ring=F85D7F&fire=F85D7F" alt="shreyasrajiv" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyasRajiv327&show_icons=true&count_private=true&bg_color=1F222E&title_color=B37FFF&text_color=FFFFFF&icon_color=F85D7F" alt="ShreyasRajiv327" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ShreyasRajiv327&theme=holi-theme&date_format=M%20j%5B%2C%20Y%5D&background=1F222E&currStreakNum=B37FFF&sideNums=B37FFF&ring=F85D7F&fire=F85D7F" alt="ShreyasRajiv327" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasrajiv&layout=donut&theme=react&bg_color=1F222E&title_color=B37FFF" alt="shreyasrajiv" /></p>  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasRajiv327&layout=donut&theme=react&bg_color=1F222E&title_color=B37FFF" alt="shreyasrajiv" /></p>  
 
 
 <h4 align="center"color="F85D7F">Languages and Tools </h4>
